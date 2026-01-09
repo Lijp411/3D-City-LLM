@@ -1,4 +1,4 @@
-# 3DCity-LLM: Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding
+# 3DCity-LLM: Empowering Multi-modality Large Language Models for 3D Perception and Understanding
 
 This is the official PyTorch implementation of 3DCity-LLM. 
 
