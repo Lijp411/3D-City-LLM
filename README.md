@@ -88,7 +88,7 @@ You can evaluate the performance on 3DCity-LLM dataset. Please put the PTH model
 CUDA_VISIBLE_DEVICES=0 python Test_CityLLM.py \
   --version="PATH_TO_CityLLM_MODEL"
 ```
-The PTH model is available at [3D_CityLLM_Model](https://drive.google.com/drive/folders/1--y-Sp9hdHXg737uioHATpvqfwmAQuvh?usp=sharing).
+The PTH model is available at [3D_CityLLM_Model](https://drive.google.com/drive/folders/1XAPTi_bzebFkdCXrobWcQi_icvxrmgmE?usp=sharing).
 
 ## 🤝 Acknowledgement
 3DCity-LLM is built upon the wonderful [LLaVA](https://github.com/haotian-liu/LLaVA), [Uni3D](https://github.com/baaivision/Uni3D), [SensatUrban](https://github.com/QingyongHu/SensatUrban), [CityRefer](https://github.com/ATR-DBI/CityRefer) and [UrbanBIS](https://vcc.tech/UrbanBIS). 
