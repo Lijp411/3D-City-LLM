@@ -52,7 +52,7 @@ The code has been tested on:
   pip install deepspeed==0.15.1
   ```
 
-  ## 🚅 Train
+## 🚅 Train
 You can train the 3DCity-LLM with pre-trained LLM backbone. It takes only about **24 hours** for training. Note that SAM is available at [backbone model](https://drive.google.com/file/d/1shdmFrhzX3QD-8nhF8OV_zkCGWTZU984/view?usp=drive_link).
 ```
 deepspeed --master_port=24999 Train_CityLLM.py \
