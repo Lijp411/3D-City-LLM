@@ -12,7 +12,7 @@ While Multi-modality Large Language Models (MLLMs) excel in object-centric or in
 
 ## 💾 Dataset Download
 
-The 3DCity-LLM-1.2M dataset is available at [meta data](https://drive.google.com/drive/folders/1J4oRYT3tpdXQAt9mY3J3iu5GCDB03zPj?usp=drive_link). In addition, we have provided all the prepared data in [Google Drive](https://drive.google.com/drive/folders/1_cOZFti4FyZtfAyEotXu1PEOFQZEcwBs?usp=drive_link). Please download the files and place them in the ``.\data`` directory, then change the corresponding path in ``.\lib\config.py``, ``.\utils\cityllm_dataset.py`` and ``.\Test_CityLLM.py``. 
+The 3DCity-LLM-1.2M dataset is available at [meta data](https://drive.google.com/drive/folders/1EMSvh1AYympK5Xqj1FmAH-9isTMHYZvT?usp=drive_link). In addition, we have provided all the prepared data in [Google Drive](https://drive.google.com/drive/folders/1EMSvh1AYympK5Xqj1FmAH-9isTMHYZvT?usp=drive_link). Please download the files and place them in the ``.\data`` directory, then change the corresponding path in ``.\lib\config.py``, ``.\utils\cityllm_dataset.py`` and ``.\Test_CityLLM.py``. 
 
  ![overview](fig/City-LLM-Data.png)
 
@@ -23,7 +23,6 @@ To facilitate related research, we plan to make 3DCity-LLM open source, includin
 - [x] Release the 3DCity-LLM-1.2M dataset.
 - [x] Release the training scripts.
 - [x] Provide the weights of **pre-trained 3DCity-LLM model (7B)**.
-- [ ] Provide the weights of **pre-trained 3DCity-LLM model (13B)**.
 - [x] Release the dataset construction pipline and dataloader script for chatting on your own city-scale dataset.
 - [ ] Release the evaluation scripts.
 - [ ] Create an easy-to-use demo.
